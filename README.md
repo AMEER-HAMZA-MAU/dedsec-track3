@@ -7,7 +7,7 @@ locate someone location using social engineering tool
 ## Information we can get:
 * Longitude
 * Latitude
-## Templates : 
+## Template : 
 * Custom page
 
 ### INSTALLATION
