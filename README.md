@@ -1,8 +1,8 @@
-# dedsec-track3
+# dedsec-track3 - Custom page
 locate someone location using social engineering tool 
 
 ## banner
-![1](https://github.com/0xbitx/dedsec-track-v2/blob/master/banner.png)
+![1](https://github.com/0xbitx/dedsec-track3/blob/master/banner.png)
 
 ## Information we can get:
 * Longitude
