@@ -1,8 +1,7 @@
-# dedsec-track3 - Custom page
-locate someone location using social engineering tool 
+<h1 align="center"> DEDSEC TRACK V3 </h1>
+<p align="center"> locate someone location using social engineering </p>
 
-## banner
-![1](https://github.com/0xbitx/dedsec-track3/blob/master/banner.png)
+<img src="https://github.com/0xbitx/dedsec-track3/blob/master/banner.png" width="100%">
 
 ## Information we can get:
 * Longitude
@@ -29,7 +28,8 @@ locate someone location using social engineering tool
 ### LANGUAGE 
 * bash
 
-### DISCLAIMER
-                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-The use of the dedsec-track3 is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
+<h1 align="center"> DISCLAIMER </h1>
+
+<h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
+
